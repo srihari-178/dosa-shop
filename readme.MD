@@ -20,3 +20,4 @@
 
 * Panner
 * Carrot
+* Beetroot
